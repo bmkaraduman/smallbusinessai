@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0b0e14;
+  --surface: #10141c;
+  --border: #262d3b;
+  --text: #e9ecf1;
+  --muted: #99a3b4;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+
+  .card {
+    @apply rounded-2xl border border-ink-600 bg-ink-850 shadow-card;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-sm font-semibold transition
+           focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-400 focus-visible:ring-offset-2
+           focus-visible:ring-offset-ink-900 disabled:opacity-50;
+  }
+
+  .btn-primary {
+    @apply btn bg-brand-400 text-ink-950 hover:bg-brand-300 active:bg-brand-500;
+  }
+
+  .btn-ghost {
+    @apply btn border border-ink-600 bg-ink-800/60 text-slate-200 hover:border-ink-500 hover:bg-ink-700;
+  }
+
+  .btn-wa {
+    @apply btn bg-wa-500 text-ink-950 hover:bg-wa-400;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-ink-600 bg-ink-800
+           px-3 py-1 text-xs font-medium text-slate-300;
+  }
+
+  .label-eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-brand-300;
+  }
+
+  .h-section {
+    @apply font-display text-3xl font-semibold leading-tight tracking-tight text-white sm:text-4xl;
+  }
+
+  .prose-legal h2 {
+    @apply mb-3 mt-10 font-display text-xl font-semibold text-white;
+  }
+
+  .prose-legal p,
+  .prose-legal li {
+    @apply text-[15px] leading-relaxed text-slate-300;
+  }
+
+  .prose-legal ul {
+    @apply my-3 list-disc space-y-1.5 pl-5;
+  }
+}
+
+/* Thin scrollbars inside dashboard panels */
+.scroll-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scroll-thin::-webkit-scrollbar-thumb {
+  background: #262d3b;
+  border-radius: 999px;
+}
+.scroll-thin::-webkit-scrollbar-track {
+  background: transparent;
+}

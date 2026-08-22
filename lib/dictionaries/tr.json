@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "title": "SmallBusinessAI — Hollanda'daki esnaf için yapay zeka asistanı",
+    "description": "Yorumlar yanıtlanmış, sosyal medya güncel, kaybolan müşteriler geri kazanılmış. Hepsi WhatsApp üzerinden, ayda €79'dan başlayan fiyatlarla."
+  },
+  "nav": {
+    "modules": "Modüller",
+    "sectors": "Kimler için",
+    "pricing": "Fiyatlar",
+    "referral": "Referans programı",
+    "faq": "Sorular",
+    "dashboard": "Demoyu gör",
+    "cta": "İlk ay ücretsiz"
+  },
+  "hero": {
+    "badge": "Tamamen WhatsApp üzerinden çalışır",
+    "title": "Google yorumlarınız çoktan yanıtlandı",
+    "titleAccent": "siz dükkanı açmadan önce",
+    "subtitle": "SmallBusinessAI yorumlarınızı yanıtlar, sosyal medyanızı yönetir ve kaybolan müşterileri geri getirir. Siz her şeyi WhatsApp'tan tek mesajla onaylarsınız. Yeni uygulama yok, fazladan ekran yok.",
+    "ctaPrimary": "İlk ay ücretsiz",
+    "ctaSecondary": "Demoyu incele",
+    "note": "Kredi kartı gerekmez · Hollandaca, Türkçe, Arapça ve Almanca",
+    "stats": [
+      { "value": "4,3 ⭐", "label": "3 ay sonra ortalama puan" },
+      { "value": "< 6 saat", "label": "yorumlara yanıt süresi" },
+      { "value": "€287", "label": "aylık tasarruf edilen komisyon" }
+    ]
+  },
+  "problem": {
+    "eyebrow": "Sorun",
+    "title": "Sizin vaktiniz yok. Rakibinizin var.",
+    "subtitle": "Hollanda'da 1,8 milyondan fazla KOBİ var. Esnafın büyük kısmı aynı altı sorunla boğuşuyor.",
+    "items": [
+      {
+        "title": "Yorumlar yanıtsız kalıyor",
+        "body": "Yanıt vermemek Google Haritalar'da sıranızı düşürüyor. Cevapsız geçen her hafta görünürlük kaybı demek."
+      },
+      {
+        "title": "Sosyal medya duruyor",
+        "body": "KOBİ'lerin %78'i düzenli paylaşım yapamıyor. Rakibiniz her gün post atarken sizin hesabınız haftalardır sessiz."
+      },
+      {
+        "title": "Ajans çok pahalı",
+        "body": "Sosyal medya ajansı ayda €300 ile €800 arası. Beş kişilik bir dükkan için bu rakam mümkün değil."
+      },
+      {
+        "title": "Yapay zeka istiyorsunuz ama nasıl?",
+        "body": "Esnafın %67'si yapay zeka kullanmak istediğini ama nasıl olacağını bilmediğini söylüyor. Engel teknik, istek değil."
+      },
+      {
+        "title": "Siparişin %30'u komisyona gidiyor",
+        "body": "Teslimat platformları her siparişten %30'a varan komisyon alıyor. Müşteriye doğrudan ulaşacak alternatifiniz yok."
+      },
+      {
+        "title": "Giden müşteri fark edilmiyor",
+        "body": "Üç haftadır uğramayan sadık müşteri çoğu zaman bir daha hiç gelmiyor. Kimse de fark etmiyor."
+      }
+    ]
+  },
+  "day": {
+    "eyebrow": "Nasıl çalışıyor",
+    "title": "SmallBusinessAI ile bir gün",
+    "subtitle": "Siz sadece dükkanınızı işletiyorsunuz. Geri kalanı arka planda oluyor ve WhatsApp'ınıza geliyor.",
+    "items": [
+      {
+        "time": "07:00",
+        "title": "Dükkanı açıyorsunuz",
+        "body": "Gece 02:14'te gelen 2 yıldızlı yorum çoktan yanıtlanmış. Haftalık rapor WhatsApp'ta sizi bekliyor."
+      },
+      {
+        "time": "09:00",
+        "title": "Instagram postu hazır",
+        "body": "\"Bugün taze kesim tavuk döner.\" Siz \"1\" yazıyorsunuz. Post yayında."
+      },
+      {
+        "time": "12:30",
+        "title": "Öğle yoğunluğu",
+        "body": "Telefona bakacak vakit yok. Bu sırada üç DM sorusu otomatik yanıtlandı."
+      },
+      {
+        "time": "15:00",
+        "title": "Rakip fiyat düşürdü",
+        "body": "WhatsApp'a bildirim: \"Döner King €0,50 indirdi. Combo kampanya denensin mi?\" Onaylıyorsunuz, kampanya çalışıyor."
+      },
+      {
+        "time": "19:00",
+        "title": "Yağmur başlıyor",
+        "body": "KNMI verisi otomatik tetikliyor: \"Bu akşam teslimatta ücretsiz içecek.\" 23 doğrudan sipariş, sıfır komisyon."
+      },
+      {
+        "time": "23:00",
+        "title": "Eve gidiyorsunuz",
+        "body": "Dört yorum yanıtlanmış, bir kampanya dönmüş, €67 komisyon cepte kalmış. Sizin harcadığınız süre: iki dakika."
+      }
+    ]
+  },
+  "modules": {
+    "eyebrow": "Neler var",
+    "title": "Beş modül, tek WhatsApp numarası",
+    "subtitle": "Her modül kendi başına çalışan yapay zeka ajanlarından oluşuyor. Birlikte daha güçlüler, ayrı da çalışırlar.",
+    "items": [
+      {
+        "name": "İtibar & yorum yönetimi",
+        "tagline": "Google puanınız dijital vitrininizdir",
+        "points": [
+          "Google İşletme Profili ile tek seferlik izinle bağlantı",
+          "Her iki saatte bir otomatik yeni yorum taraması",
+          "Sizin üslubunuza uygun, kişiselleştirilmiş Felemenkçe yanıt taslağı",
+          "1 veya 2 yıldızda anında WhatsApp uyarısı — gece üçte bile"
+        ]
+      },
+      {
+        "name": "Sosyal medya",
+        "tagline": "Haftada üç post, siz hiçbir şey düşünmeden",
+        "points": [
+          "Resmi Meta bağlantısıyla Instagram ve Facebook",
+          "Hava tetikleyicisi: KNMI yağmur diyor, teslimat kampanyanız hazır",
+          "Yerel takvim: Ajax maçı, Koningsdag, Ramazan ve Bayram",
+          "Teslimat platformlarında rakip fiyat takibi"
+        ]
+      },
+      {
+        "name": "WhatsApp & müşteriler",
+        "tagline": "%30 komisyon ödemeden sipariş",
+        "points": [
+          "WhatsApp Business üzerinden iDEAL ödemeli sipariş botu",
+          "Dijital sadakat kartı: on sipariş, biri bedava",
+          "Geri kazanım botu: üç haftadır sipariş yok, otomatik teklif gider",
+          "Kişisel indirim koduyla doğum günü mesajı"
+        ]
+      },
+      {
+        "name": "Operasyon & stok",
+        "tagline": "Sezgiden veriye geçiş",
+        "points": [
+          "Fişi fotoğraflayın, OCR ile muhasebe kendini doldursun",
+          "Satış, hava ve etkinlik verisiyle talep tahmini",
+          "Sligro, Makro ve Hanos fiyat karşılaştırması",
+          "Beklenen yoğunluğa göre personel vardiya planı"
+        ]
+      },
+      {
+        "name": "Raporlama",
+        "tagline": "Her Pazartesi 09:00'da WhatsApp'ınızda",
+        "points": [
+          "Sade dille haftalık rapor, teknik terim yok",
+          "Euro bazında kâr-zarar, tasarruf edilen komisyon dahil",
+          "Yerel SEO: Google ve yapay zeka aramalarında daha görünür",
+          "Birden fazla şube tek ekranda"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "eyebrow": "Kimler için",
+    "title": "Sizin sektörünüz için kurgulandı",
+    "subtitle": "Genel amaçlı bir yapay zeka aracı değil. Her sektörün kendi ajanları, kendi üslubu ve kendi kampanyaları var.",
+    "items": [
+      { "icon": "🥙", "name": "Döner & shoarma", "problem": "Düşük Google puanı ve yüksek platform komisyonu" },
+      { "icon": "💈", "name": "Kuaför & berber", "problem": "Sosyal medya durgun, müşteri randevuya gelmiyor" },
+      { "icon": "🔧", "name": "Tamirci", "problem": "Teklif takibi yok, müşteri durumu bilmiyor" },
+      { "icon": "🛒", "name": "Bakkal & minimarkt", "problem": "Stok tahmini yok, kampanya yapılamıyor" }
+    ]
+  },
+  "compare": {
+    "eyebrow": "Neden biz",
+    "title": "Hollanda'da doğrudan rakibimiz yok",
+    "subtitle": "Mevcut alternatifler sorunun hep bir parçasını çözüyor — ve genelde Hollandaca bile değil.",
+    "headers": { "name": "Alternatif", "why": "Neden yetersiz" },
+    "rows": [
+      { "name": "Broadly (ABD)", "why": "Hollanda'da aktif değil, İngilizce, yerel entegrasyon yok" },
+      { "name": "Malou (NL)", "why": "Sadece Google yorumları. WhatsApp yok, sosyal medya yok" },
+      { "name": "Vendasta (Kanada)", "why": "Kurumsal odaklı, ayda €500'den başlıyor" },
+      { "name": "Owner.com (ABD)", "why": "Sadece sipariş odaklı, iDEAL desteği yok" },
+      { "name": "Sosyal medya ajansı", "why": "Ayda €300–800, insan emeği, 7/24 değil" },
+      { "name": "ChatGPT ve genel yapay zeka", "why": "Sektöre özel değil, hepsini siz yönetmek zorundasınız" }
+    ],
+    "us": {
+      "name": "SmallBusinessAI",
+      "why": "Hepsi bir arada · €79'dan · WhatsApp üzerinden · Hollandaca ve Türkçe · Hollanda'ya özel"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Fiyatlar",
+    "title": "Bir ajansın dörtte birinden az",
+    "subtitle": "İlk ay ücretsiz, kredi kartı istemeden. Sonrasında yıllık ödemede %20 indirim.",
+    "period": "aylık",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "€79",
+        "desc": "Yorumlar ve görünürlükle başlamak isteyenler için",
+        "features": [
+          "İtibar & yorum yönetimi tam kapsam",
+          "Tek Google işletme profili",
+          "WhatsApp bildirimleri ve haftalık rapor",
+          "Tek sosyal medya kanalı",
+          "E-posta desteği"
+        ],
+        "cta": "Ücretsiz başla"
+      },
+      {
+        "name": "Business",
+        "price": "€129",
+        "desc": "Ciroyu da büyütmek isteyen işletmeler için",
+        "badge": "En çok tercih edilen",
+        "features": [
+          "Starter'daki her şey",
+          "Sosyal medya tam kapsam (Instagram + Facebook)",
+          "Hava ve etkinlik kampanyaları",
+          "Müşteri veritabanı ve sadakat kartı",
+          "Kayıp müşteri geri kazanım botu",
+          "WhatsApp desteği"
+        ],
+        "cta": "Ücretsiz başla"
+      },
+      {
+        "name": "Pro",
+        "price": "€199",
+        "desc": "Çok şubeli işletmeler ve tam otomasyon için",
+        "features": [
+          "Business'taki her şey",
+          "iDEAL'li, komisyonsuz sipariş botu",
+          "Fiş tarama ve muhasebe entegrasyonu",
+          "Talep tahmini ve personel planlaması",
+          "Birden fazla şube",
+          "Size özel müşteri temsilcisi"
+        ],
+        "cta": "İletişime geç"
+      }
+    ],
+    "notes": [
+      "İlk ay herkese ücretsiz, kredi kartı gerekmez",
+      "Yıllık ödemede %20 indirim",
+      "Deneme sonrası en az üç ay taahhüt"
+    ]
+  },
+  "referral": {
+    "eyebrow": "Referans programı",
+    "title": "Müşteriniz kaldığı sürece siz de kazanın",
+    "subtitle": "Kendi linkinizle esnaf getirin, o müşteri ödediği sürece komisyon alın. Ömür boyu, otomatik.",
+    "body": "On esnaf tanıyor musunuz? Business paketinde %10 komisyonla bu ayda €129 eder. Ek iş yok, bitiş tarihi yok.",
+    "headers": { "tier": "Seviye", "refs": "Getirilen müşteri", "rate": "Komisyon" },
+    "tiers": { "bronze": "Bronz", "silver": "Gümüş", "gold": "Altın", "elite": "Elite" },
+    "note": "Ödemeler aylık, Stripe Connect üzerinden, €50'den itibaren."
+  },
+  "faq": {
+    "eyebrow": "Sorular",
+    "title": "Esnafın bize sorduğu sorular",
+    "items": [
+      {
+        "q": "Yeni bir uygulama öğrenmem gerekiyor mu?",
+        "a": "Hayır. Her şey zaten gün boyu kullandığınız WhatsApp üzerinden yürüyor. Bildirimler, onaylar ve raporlar normal mesaj olarak geliyor. Bir de web paneli var ama kullanmak zorunda değilsiniz."
+      },
+      {
+        "q": "Yapay zeka benim adıma kafasına göre paylaşım yapar mı?",
+        "a": "Onayınız olmadan asla. Her yanıt ve her post size önce taslak olarak gelir. Göndermek için \"1\", düzenlemek için \"2\" yazarsınız. Kontrol tamamen sizde."
+      },
+      {
+        "q": "Robot gibi konuşmaz mı?",
+        "a": "Üslubu sizin dükkanınıza göre ayarlıyoruz: samimi ya da resmi, emojili ya da emojisiz, Hollandaca ya da Türkçe. İlk haftadan sonra sistem sizin düzelttiğiniz yanıtlardan öğrenip kendini ayarlıyor."
+      },
+      {
+        "q": "Müşteri verilerime ne oluyor?",
+        "a": "Her şey AB içinde işleniyor ve saklanıyor, tamamen AVG (GDPR) uyumlu. Size veri işleme sözleşmesi veriyoruz. Verilerinizi istediğiniz an dışa aktarabilir veya sildirebilirsiniz."
+      },
+      {
+        "q": "İstediğim zaman bırakabilir miyim?",
+        "a": "İlk ay ücretsiz ve taahhütsüz. Sonrasında en az üç ay taahhüt var, çünkü ilk kurulum bizim tarafımızda emek gerektiriyor. Ondan sonra aylık iptal edebilirsiniz."
+      },
+      {
+        "q": "Türkçe ya da Arapça konuşmayı tercih ediyorum.",
+        "a": "Sorun değil. Kurulum desteği, panel ve tüm WhatsApp mesajları Hollandaca, Türkçe, Almanca ve İngilizce olarak mevcut. Müşterilerinize giden yanıtlar varsayılan olarak Hollandaca kalır."
+      }
+    ]
+  },
+  "final": {
+    "title": "Yarın sabah yorumlarınız yanıtlanmış olacak",
+    "subtitle": "İlk ay ücretsiz. Kredi kartı yok, taahhüt yok. Kurulumu sizin yerinize biz yapıyoruz.",
+    "cta": "Ücretsiz başla",
+    "note": "Ya da önce demoya bakın — gerçek arayüz, örnek verilerle."
+  },
+  "footer": {
+    "tagline": "Hollanda'daki esnaf için yapay zeka ajanları. Hepsi WhatsApp üzerinden.",
+    "product": "Ürün",
+    "company": "Şirket",
+    "legal": "Hukuki",
+    "links": {
+      "modules": "Modüller",
+      "pricing": "Fiyatlar",
+      "demo": "Demo",
+      "referral": "Referans programı",
+      "about": "Hakkımızda",
+      "contact": "İletişim",
+      "privacy": "Gizlilik politikası",
+      "terms": "Kullanım şartları"
+    },
+    "rights": "Tüm hakları saklıdır.",
+    "kvk": "KvK 00000000 · BTW NL000000000B01 · Amsterdam"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Gizlilik politikası",
+      "updated": "Son güncelleme: 22 Ağustos 2026",
+      "intro": "SmallBusinessAI, hizmetimizi kullanan esnafın ve onların müşterilerinin kişisel verilerini işler. Bu politikada hangi verileri neden topladığımızı ve Genel Veri Koruma Tüzüğü (AVG/GDPR) kapsamındaki haklarınızı açıklıyoruz.",
+      "sections": [
+        {
+          "h": "1. Biz kimiz",
+          "body": [
+            "Amsterdam merkezli, Ticaret Odası'na 00000000 numarasıyla kayıtlı SmallBusinessAI, kendi müşterilerinin verileri bakımından veri sorumlusu, müşterileri adına işlediği veriler bakımından veri işleyendir.",
+            "İletişim: privacy@smallbusinessai.nl"
+          ]
+        },
+        {
+          "h": "2. Hangi verileri işliyoruz",
+          "body": [
+            "Hesap verileri: ad, e-posta adresi, telefon numarası, işletme adı, KvK numarası ve fatura adresi.",
+            "Google İşletme Profili verileri: yorumlar, puanlar, çalışma saatleri ve işletme bilgileri. Bunları yalnızca Google OAuth üzerinden bize açıkça erişim verdikten sonra okuruz.",
+            "Sosyal medya verileri: bağlı Instagram ve Facebook hesaplarının gönderileri, istatistikleri ve doğrudan mesajları — yalnızca Meta üzerinden verdiğiniz izin sonrası.",
+            "WhatsApp verileri: WhatsApp Business Platform üzerinden alınıp gönderilen telefon numaraları ve mesajlar.",
+            "Kullanım verileri: oturum bilgileri, IP adresi ve panel içindeki işlemler — güvenlik ve hata tespiti amacıyla."
+          ]
+        },
+        {
+          "h": "3. Bu verileri neden işliyoruz",
+          "body": [
+            "Hizmeti sunmak için: yorumları çekmek, yanıt taslağı üretmek, onayınızdan sonra paylaşım yapmak ve rapor hazırlamak.",
+            "Yeni yorumlar, kampanyalar ve raporlar hakkında sizi WhatsApp üzerinden bilgilendirmek için.",
+            "Hizmeti geliştirmek ve arızaları gidermek için.",
+            "Faturalar için yedi yıllık vergi saklama yükümlülüğü gibi yasal zorunlulukları yerine getirmek için."
+          ]
+        },
+        {
+          "h": "4. Hukuki dayanak",
+          "body": [
+            "Verileri sizinle yaptığımız sözleşmenin ifası, açık rızanız (örneğin Google veya Meta bağlantısı kurarken) ve güvenlik ile hizmet iyileştirmeye ilişkin meşru menfaat temelinde işleriz.",
+            "Rızanızı, panelinizden bağlantıyı kaldırarak istediğiniz an geri çekebilirsiniz."
+          ]
+        },
+        {
+          "h": "5. Yapay zeka kullanımı",
+          "body": [
+            "Taslak metin üretimi için Anthropic'in dil modellerini (Claude) kullanıyoruz. Yorum metinleri ve işletme bilgileri bu amaçla söz konusu veri işleyene gönderilir.",
+            "Bu veriler modellerin eğitiminde kullanılmaz.",
+            "Üretilen metinler asla otomatik yayınlanmaz. Yayın yalnızca siz açıkça onay verdikten sonra gerçekleşir."
+          ]
+        },
+        {
+          "h": "6. Üçüncü taraflarla paylaşım",
+          "body": [
+            "Verileri yalnızca hizmeti sunmak için gereken işleyicilerle paylaşırız: Google (Business Profile API), Meta (WhatsApp ve Graph API), Anthropic (yapay zeka), Supabase (veritabanı), Vercel ve Railway (barındırma), Mollie ve Stripe (ödeme).",
+            "Bu tarafların tümüyle veri işleme sözleşmemiz vardır. Verilerinizi asla üçüncü taraflara satmayız."
+          ]
+        },
+        {
+          "h": "7. Saklama süreleri",
+          "body": [
+            "Hesap verilerini müşterimiz olduğunuz sürece ve sonrasında on iki ay saklarız.",
+            "Yorumları ve üretilen yanıtları raporlama amacıyla yirmi dört ay saklarız.",
+            "Faturaları vergi mevzuatı gereği yedi yıl saklarız.",
+            "Aboneliği bitirdikten sonra silme talep edebilirsiniz; yasal olarak saklamak zorunda olmadığımız her şeyi otuz gün içinde sileriz."
+          ]
+        },
+        {
+          "h": "8. Haklarınız",
+          "body": [
+            "Erişim, düzeltme, silme, işlemenin kısıtlanması, itiraz ve veri taşınabilirliği haklarına sahipsiniz.",
+            "Talebinizi privacy@smallbusinessai.nl adresine gönderin. Otuz gün içinde yanıt veriyoruz.",
+            "Çözümümüzden memnun kalmazsanız Hollanda Veri Koruma Kurumu'na (Autoriteit Persoonsgegevens) şikayette bulunabilirsiniz."
+          ]
+        },
+        {
+          "h": "9. Güvenlik",
+          "body": [
+            "Veriler şifreli olarak saklanır ve iletilir. Google ve Meta erişim tokenları ayrıca şifrelenerek tutulur.",
+            "Ekip içi erişim yalnızca ihtiyacı olanlarla sınırlıdır. Erişim kayıtları tutulur."
+          ]
+        },
+        {
+          "h": "10. Değişiklikler",
+          "body": [
+            "Bu politikayı güncelleyebiliriz. Önemli değişikliklerde sizi en az otuz gün önceden e-posta ve panel üzerinden bilgilendiririz."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Kullanım şartları",
+      "updated": "Son güncelleme: 22 Ağustos 2026",
+      "intro": "Bu şartlar SmallBusinessAI'ın ticari müşteriler tarafından kullanımı için geçerlidir.",
+      "sections": [
+        {
+          "h": "1. Hizmet",
+          "body": [
+            "SmallBusinessAI, esnafın yapay zeka desteğiyle yorumları yanıtlamasını, sosyal medyayı yönetmesini ve müşterileriyle iletişim kurmasını sağlayan bir yazılım sunar.",
+            "Hizmet abonelik olarak sunulur ve aylık veya yıllık faturalandırılır."
+          ]
+        },
+        {
+          "h": "2. Deneme süresi ve iptal",
+          "body": [
+            "İlk ay ücretsiz ve taahhütsüzdür.",
+            "Deneme süresinden sonra en az üç aylık süre geçerlidir. Sonrasında abonelik bir ay ihbar süresiyle aylık iptal edilebilir.",
+            "İptal panel üzerinden veya e-postayla yapılabilir."
+          ]
+        },
+        {
+          "h": "3. Yayınlanan içeriğin sorumluluğu",
+          "body": [
+            "Sistemin ürettiği tüm metinler taslaktır. Yayın yalnızca müşterinin açık onayından sonra gerçekleşir.",
+            "İşletme adı altında yayınlanan içeriğin sorumluluğu müşteriye aittir.",
+            "SmallBusinessAI, müşterinin onayladığı yayınların sonuçlarından sorumlu değildir."
+          ]
+        },
+        {
+          "h": "4. Üçüncü taraf bağlantıları",
+          "body": [
+            "Hizmet, Google, Meta, Mollie ve Stripe hizmetlerini kullanır. Bu bağlantılarda ilgili tarafların kendi şartları da geçerlidir.",
+            "Bu hizmetlerdeki değişiklik veya arızalar çalışmayı etkileyebilir. Arızaları en kısa sürede gidermek için çaba gösteririz."
+          ]
+        },
+        {
+          "h": "5. Erişilebilirlik",
+          "body": [
+            "Önceden duyurulan planlı bakımlar hariç, ayda %99 erişilebilirlik hedefliyoruz.",
+            "Planlı bakımlar mümkün olduğunca normal çalışma saatleri dışında yapılır."
+          ]
+        },
+        {
+          "h": "6. Ödeme",
+          "body": [
+            "Ödeme otomatik ödeme talimatı, iDEAL veya kredi kartıyla yapılır.",
+            "Ödeme yapılmaması durumunda iki hatırlatmanın ardından hizmet durdurulabilir.",
+            "Tüm tutarlar %21 KDV hariçtir."
+          ]
+        },
+        {
+          "h": "7. Referans programı",
+          "body": [
+            "Katılımcılar getirdikleri ödeme yapan müşteriler üzerinden, o müşteri ödediği sürece komisyon alır.",
+            "Komisyon €50 bakiyeden itibaren aylık ödenir.",
+            "Kendi kendine referans, yanıltıcı reklam ve spam programdan çıkarılma sebebidir."
+          ]
+        },
+        {
+          "h": "8. Sorumluluk",
+          "body": [
+            "Sorumluluğumuz, olaydan önceki on iki ayda müşterinin ödediği tutarla sınırlıdır.",
+            "Kâr kaybı ve dolaylı zararlardan sorumlu değiliz."
+          ]
+        },
+        {
+          "h": "9. Uygulanacak hukuk",
+          "body": [
+            "Bu sözleşmeye Hollanda hukuku uygulanır. Uyuşmazlıklar Amsterdam'daki yetkili mahkemeye götürülür."
+          ]
+        }
+      ]
+    }
+  },
+  "dash": {
+    "demoBanner": "Demo görünümü — Google ve WhatsApp bağlantıları örnek verilerle simüle ediliyor",
+    "nav": {
+      "overview": "Genel bakış",
+      "reviews": "Yorumlar",
+      "social": "Sosyal medya",
+      "whatsapp": "WhatsApp",
+      "reports": "Raporlar",
+      "backToSite": "Siteye dön"
+    },
+    "common": {
+      "connected": "Bağlı",
+      "approve": "Onayla ve gönder",
+      "edit": "Düzenle",
+      "regenerate": "Yeniden üret",
+      "published": "Yayınlandı",
+      "pending": "Onay bekliyor",
+      "approved": "Onaylandı",
+      "urgent": "Acil",
+      "aiDraft": "Yapay zeka taslağı",
+      "viewAll": "Tümünü gör",
+      "minutesAgo": "dk önce",
+      "hoursAgo": "saat önce"
+    },
+    "overview": {
+      "title": "Günaydın",
+      "subtitle": "Dükkan kapalıyken olanlar.",
+      "stats": {
+        "rating": "Google puanı",
+        "pending": "Onay bekleyen",
+        "response": "Ort. yanıt süresi",
+        "saved": "Tasarruf edilen komisyon"
+      },
+      "trendTitle": "Puan gelişimi",
+      "trendSub": "Son 8 hafta",
+      "ordersTitle": "Günlük siparişler",
+      "ordersSub": "Doğrudan ve platform üzerinden",
+      "ordersDirect": "Doğrudan",
+      "ordersPlatform": "Platform",
+      "urgentTitle": "Dikkat gerektiriyor",
+      "activityTitle": "Son hareketler"
+    },
+    "reviews": {
+      "title": "Yorumlar",
+      "subtitle": "Her iki saatte bir tarandı. Taslaklar hazır.",
+      "filters": { "all": "Tümü", "pending": "Onay bekleyen", "published": "Yayınlanan" },
+      "empty": "Bu görünümde yorum yok.",
+      "draftLabel": "Önerilen yanıt",
+      "publishedLabel": "Google'a gönderildi:"
+    },
+    "social": {
+      "title": "Sosyal medya",
+      "subtitle": "Haftada üç post, otomatik olarak öneriliyor.",
+      "triggers": { "weather": "Hava tetikleyicisi", "event": "Etkinlik", "menu": "Menü" },
+      "status": { "draft": "Taslak", "scheduled": "Planlandı", "published": "Yayınlandı" },
+      "likes": "beğeni",
+      "reach": "erişim"
+    },
+    "whatsapp": {
+      "title": "WhatsApp simülasyonu",
+      "subtitle": "Esnafın telefonuna tam olarak bunlar düşüyor.",
+      "hint": "Akışı ilerletmek için bir yanıt tuşuna dokunun.",
+      "replyPlaceholder": "Bir mesaj yazın",
+      "legendTitle": "Mesaj tipleri",
+      "legend": {
+        "alert": "Kritik yorum — anında",
+        "reminder": "Sabah hatırlatıcısı — 10:00",
+        "campaign": "Kampanya önerisi",
+        "report": "Haftalık rapor — Pazartesi 09:00"
+      }
+    },
+    "reports": {
+      "title": "Haftalık rapor",
+      "subtitle": "Her Pazartesi 09:00'da otomatik olarak WhatsApp'ınıza.",
+      "week": "Hafta",
+      "channelsTitle": "Kanal bazında",
+      "highlightsTitle": "Öne çıkan rakamlar",
+      "customersTitle": "Müşteriler",
+      "segments": {
+        "loyal": "Sadık müşteri",
+        "at_risk": "Kaybedilme riski",
+        "new": "Yeni",
+        "birthday": "Bu hafta doğum günü"
+      },
+      "tableHeaders": {
+        "customer": "Müşteri",
+        "orders": "Sipariş",
+        "last": "Son sipariş",
+        "value": "Ciro",
+        "segment": "Segment"
+      },
+      "ago": "önce"
+    }
+  }
+}

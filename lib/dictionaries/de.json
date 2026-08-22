@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "title": "SmallBusinessAI — KI-Assistent für kleine Betriebe",
+    "description": "Bewertungen beantwortet, Social Media gepflegt, verlorene Kunden zurückgeholt. Alles über WhatsApp, ab 79 € im Monat."
+  },
+  "nav": {
+    "modules": "Module",
+    "sectors": "Für wen",
+    "pricing": "Preise",
+    "referral": "Partnerprogramm",
+    "faq": "Fragen",
+    "dashboard": "Demo ansehen",
+    "cta": "Erster Monat gratis"
+  },
+  "hero": {
+    "badge": "Läuft komplett über WhatsApp",
+    "title": "Deine Google-Bewertungen sind schon beantwortet",
+    "titleAccent": "bevor du den Laden aufschließt",
+    "subtitle": "SmallBusinessAI beantwortet deine Bewertungen, pflegt deine Social-Media-Kanäle und holt verlorene Kunden zurück. Du gibst alles mit einer einzigen WhatsApp-Nachricht frei. Keine neue App, kein zusätzlicher Bildschirm.",
+    "ctaPrimary": "Erster Monat gratis",
+    "ctaSecondary": "Demo ansehen",
+    "note": "Keine Kreditkarte nötig · Niederländisch, Türkisch, Arabisch und Deutsch",
+    "stats": [
+      { "value": "4,3 ⭐", "label": "Durchschnitt nach 3 Monaten" },
+      { "value": "< 6 Std.", "label": "Reaktionszeit auf Bewertungen" },
+      { "value": "287 €", "label": "gesparte Provision pro Monat" }
+    ]
+  },
+  "problem": {
+    "eyebrow": "Das Problem",
+    "title": "Du hast keine Zeit. Dein Wettbewerber schon.",
+    "subtitle": "In den Niederlanden gibt es über 1,8 Millionen kleine und mittlere Betriebe. Die meisten kämpfen mit denselben sechs Dingen.",
+    "items": [
+      {
+        "title": "Bewertungen bleiben unbeantwortet",
+        "body": "Keine Antwort bedeutet eine schlechtere Position in Google Maps. Jede Woche ohne Reaktion kostet dich Sichtbarkeit."
+      },
+      {
+        "title": "Social Media steht still",
+        "body": "78 % der kleinen Betriebe posten nicht regelmäßig. Dein Wettbewerber postet täglich, dein Konto ist Wochen alt."
+      },
+      {
+        "title": "Eine Agentur ist zu teuer",
+        "body": "Eine Social-Media-Agentur kostet 300 bis 800 € im Monat. Für einen Betrieb mit fünf Mitarbeitern ist das nicht machbar."
+      },
+      {
+        "title": "KI ja, aber wie?",
+        "body": "67 % sagen, sie wollen KI nutzen, wissen aber nicht wie. Die Hürde ist die Technik, nicht der Wille."
+      },
+      {
+        "title": "30 % Provision pro Bestellung",
+        "body": "Lieferplattformen nehmen bis zu 30 % jeder Bestellung. Eine Alternative, um Kunden direkt zu erreichen, gibt es nicht."
+      },
+      {
+        "title": "Abgewanderte Kunden fallen nicht auf",
+        "body": "Ein Stammkunde, der drei Wochen nicht da war, kommt oft nie wieder. Und niemand merkt es."
+      }
+    ]
+  },
+  "day": {
+    "eyebrow": "So funktioniert es",
+    "title": "Ein Tag mit SmallBusinessAI",
+    "subtitle": "Du führst einfach deinen Betrieb. Der Rest läuft im Hintergrund und landet in deinem WhatsApp.",
+    "items": [
+      {
+        "time": "07:00",
+        "title": "Du öffnest den Laden",
+        "body": "Die Zwei-Sterne-Bewertung von 02:14 Uhr ist bereits beantwortet. Der Wochenbericht wartet in WhatsApp."
+      },
+      {
+        "time": "09:00",
+        "title": "Instagram-Post steht bereit",
+        "body": "\"Heute frisch geschnittener Hähnchen-Döner.\" Du schreibst \"1\". Der Post ist online."
+      },
+      {
+        "time": "12:30",
+        "title": "Mittagsandrang",
+        "body": "Keine Zeit fürs Handy. In der Zwischenzeit wurden drei DM-Anfragen automatisch beantwortet."
+      },
+      {
+        "time": "15:00",
+        "title": "Wettbewerber senkt den Preis",
+        "body": "WhatsApp-Nachricht: \"Döner King ist 0,50 € günstiger. Combo-Aktion testen?\" Du gibst frei, die Kampagne läuft."
+      },
+      {
+        "time": "19:00",
+        "title": "Es fängt an zu regnen",
+        "body": "KNMI-Daten lösen automatisch aus: \"Heute Abend Getränk gratis bei Lieferung.\" 23 Direktbestellungen, null Provision."
+      },
+      {
+        "time": "23:00",
+        "title": "Du gehst nach Hause",
+        "body": "Vier Bewertungen beantwortet, eine Kampagne gelaufen, 67 € Provision gespart. Dein Aufwand: zwei Minuten."
+      }
+    ]
+  },
+  "modules": {
+    "eyebrow": "Was du bekommst",
+    "title": "Fünf Module, eine WhatsApp-Nummer",
+    "subtitle": "Jedes Modul besteht aus KI-Agenten, die selbstständig arbeiten. Zusammen sind sie stärker, einzeln funktionieren sie auch.",
+    "items": [
+      {
+        "name": "Reputation & Bewertungen",
+        "tagline": "Deine Google-Bewertung ist dein digitales Schaufenster",
+        "points": [
+          "Anbindung an das Google-Unternehmensprofil mit einmaliger Freigabe",
+          "Alle zwei Stunden automatischer Scan auf neue Bewertungen",
+          "Persönlicher Antwortentwurf auf Niederländisch, passend zu deinem Ton",
+          "Sofortige WhatsApp-Warnung bei 1 oder 2 Sternen — auch um drei Uhr nachts"
+        ]
+      },
+      {
+        "name": "Social Media",
+        "tagline": "Drei Posts pro Woche, ohne dass du dir etwas ausdenkst",
+        "points": [
+          "Instagram und Facebook über die offizielle Meta-Schnittstelle",
+          "Wetter-Trigger: KNMI meldet Regen, deine Lieferaktion steht bereit",
+          "Lokaler Kalender: Ajax-Spiel, Königstag, Ramadan und Eid",
+          "Preisüberwachung der Wettbewerber auf Lieferplattformen"
+        ]
+      },
+      {
+        "name": "WhatsApp & Kunden",
+        "tagline": "Bestellen ohne 30 % Provision",
+        "points": [
+          "Bestell-Bot über WhatsApp Business mit iDEAL-Zahlung",
+          "Digitale Stempelkarte: zehn Bestellungen, eine gratis",
+          "Rückhol-Bot: drei Wochen keine Bestellung, automatisch ein Angebot",
+          "Geburtstagsnachricht mit persönlichem Rabattcode"
+        ]
+      },
+      {
+        "name": "Betrieb & Lager",
+        "tagline": "Vom Bauchgefühl zu echten Zahlen",
+        "points": [
+          "Belege abfotografieren, die Buchhaltung füllt sich per OCR selbst",
+          "Nachfrageprognose aus Verkauf, Wetter und Veranstaltungen",
+          "Preisvergleich bei Sligro, Makro und Hanos",
+          "Personalplanung nach erwartetem Andrang"
+        ]
+      },
+      {
+        "name": "Auswertung",
+        "tagline": "Jeden Montag um 09:00 Uhr in deinem WhatsApp",
+        "points": [
+          "Wochenbericht in normaler Sprache, ohne Fachbegriffe",
+          "Gewinn und Verlust in Euro, inklusive gesparter Provision",
+          "Lokale SEO: besser auffindbar in Google und KI-Suchen",
+          "Mehrere Standorte in einer Übersicht"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "eyebrow": "Für wen",
+    "title": "Gebaut für deine Branche",
+    "subtitle": "Kein allgemeines KI-Werkzeug. Jede Branche hat eigene Agenten, einen eigenen Ton und eigene Kampagnen.",
+    "items": [
+      { "icon": "🥙", "name": "Döner & Shoarma", "problem": "Niedrige Google-Bewertung und hohe Plattformprovision" },
+      { "icon": "💈", "name": "Friseur & Barbier", "problem": "Social Media steht still, Kunden erscheinen nicht" },
+      { "icon": "🔧", "name": "Reparaturbetrieb", "problem": "Angebote ohne Nachfassen, Kunde kennt den Status nicht" },
+      { "icon": "🛒", "name": "Minimarkt", "problem": "Keine Bedarfsprognose, keine Aktionen" }
+    ]
+  },
+  "compare": {
+    "eyebrow": "Warum wir",
+    "title": "In den Niederlanden gibt es keinen direkten Wettbewerber",
+    "subtitle": "Die vorhandenen Alternativen lösen jeweils nur einen Teil — und meist nicht auf Niederländisch.",
+    "headers": { "name": "Alternative", "why": "Warum sie nicht reicht" },
+    "rows": [
+      { "name": "Broadly (USA)", "why": "In den Niederlanden nicht aktiv, englischsprachig, keine lokalen Schnittstellen" },
+      { "name": "Malou (NL)", "why": "Nur Google-Bewertungen. Kein WhatsApp, kein Social Media" },
+      { "name": "Vendasta (Kanada)", "why": "Auf Großkunden ausgerichtet, ab 500 € im Monat" },
+      { "name": "Owner.com (USA)", "why": "Nur Bestellungen, kein iDEAL" },
+      { "name": "Social-Media-Agentur", "why": "300–800 € im Monat, Handarbeit, nicht rund um die Uhr" },
+      { "name": "ChatGPT oder andere KI", "why": "Nicht branchenspezifisch, du musst alles selbst bedienen" }
+    ],
+    "us": {
+      "name": "SmallBusinessAI",
+      "why": "Alles in einem · ab 79 € · über WhatsApp · Niederländisch und Türkisch · für die Niederlande gebaut"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Preise",
+    "title": "Weniger als ein Viertel einer Agentur",
+    "subtitle": "Erster Monat gratis, ohne Kreditkarte. Danach 20 % Rabatt bei jährlicher Zahlung.",
+    "period": "pro Monat",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "79 €",
+        "desc": "Für den Einstieg mit Bewertungen und Sichtbarkeit",
+        "features": [
+          "Reputation & Bewertungen vollständig",
+          "Ein Google-Unternehmensprofil",
+          "WhatsApp-Meldungen und Wochenbericht",
+          "Ein Social-Media-Kanal",
+          "E-Mail-Support"
+        ],
+        "cta": "Gratis starten"
+      },
+      {
+        "name": "Business",
+        "price": "129 €",
+        "desc": "Für Betriebe, die auch beim Umsatz wachsen wollen",
+        "badge": "Am häufigsten gewählt",
+        "features": [
+          "Alles aus Starter",
+          "Social Media vollständig (Instagram + Facebook)",
+          "Wetter- und Veranstaltungskampagnen",
+          "Kundendatenbank und Stempelkarte",
+          "Rückhol-Bot für abgewanderte Kunden",
+          "WhatsApp-Support"
+        ],
+        "cta": "Gratis starten"
+      },
+      {
+        "name": "Pro",
+        "price": "199 €",
+        "desc": "Für mehrere Standorte und volle Automatisierung",
+        "features": [
+          "Alles aus Business",
+          "Bestell-Bot mit iDEAL, ohne Provision",
+          "Belegscan und Buchhaltungsanbindung",
+          "Nachfrageprognose und Personalplanung",
+          "Mehrere Standorte",
+          "Fester Ansprechpartner"
+        ],
+        "cta": "Kontakt aufnehmen"
+      }
+    ],
+    "notes": [
+      "Erster Monat für alle gratis, keine Kreditkarte nötig",
+      "20 % Rabatt bei jährlicher Zahlung",
+      "Mindestens drei Monate nach der Testphase"
+    ]
+  },
+  "referral": {
+    "eyebrow": "Partnerprogramm",
+    "title": "Verdiene mit, solange dein Kunde bleibt",
+    "subtitle": "Empfiehl uns mit deinem eigenen Link weiter und erhalte Provision, solange dieser Kunde zahlt. Lebenslang, automatisch.",
+    "body": "Du kennst zehn andere Betriebe? Beim Business-Paket sind das bei 10 % Provision 129 € im Monat. Ohne Aufwand, ohne Enddatum.",
+    "headers": { "tier": "Stufe", "refs": "Vermittelte Kunden", "rate": "Provision" },
+    "tiers": { "bronze": "Bronze", "silver": "Silber", "gold": "Gold", "elite": "Elite" },
+    "note": "Auszahlung monatlich über Stripe Connect, ab 50 €."
+  },
+  "faq": {
+    "eyebrow": "Fragen",
+    "title": "Was Betriebe uns fragen",
+    "items": [
+      {
+        "q": "Muss ich eine neue App lernen?",
+        "a": "Nein. Alles läuft über WhatsApp, dieselbe App, die du ohnehin den ganzen Tag nutzt. Meldungen, Freigaben und Berichte kommen als normale Nachricht. Es gibt zusätzlich ein Web-Panel, aber das ist optional."
+      },
+      {
+        "q": "Veröffentlicht die KI einfach etwas in meinem Namen?",
+        "a": "Niemals ohne deine Freigabe. Jede Antwort und jeder Post kommt zuerst als Entwurf zu dir. Du schickst \"1\" zum Senden oder \"2\" zum Anpassen. Die Kontrolle bleibt bei dir."
+      },
+      {
+        "q": "Klingt das nicht nach einem Roboter?",
+        "a": "Wir stellen den Ton auf deinen Betrieb ein: locker oder förmlich, mit oder ohne Emoji, Niederländisch oder Türkisch. Nach der ersten Woche lernt das System aus den Antworten, die du selbst angepasst hast."
+      },
+      {
+        "q": "Was passiert mit meinen Kundendaten?",
+        "a": "Alles wird innerhalb der EU verarbeitet und gespeichert, vollständig DSGVO-konform. Du bekommst einen Auftragsverarbeitungsvertrag. Du kannst deine Daten jederzeit exportieren oder löschen lassen."
+      },
+      {
+        "q": "Kann ich jederzeit aufhören?",
+        "a": "Der erste Monat ist gratis und unverbindlich. Danach gilt eine Mindestlaufzeit von drei Monaten, weil die Einrichtung auf unserer Seite Aufwand bedeutet. Danach monatlich kündbar."
+      },
+      {
+        "q": "Ich spreche lieber Türkisch oder Arabisch.",
+        "a": "Kein Problem. Betreuung, Panel und alle WhatsApp-Nachrichten gibt es auf Niederländisch, Türkisch, Deutsch und Englisch. Antworten an deine Kunden bleiben standardmäßig auf Niederländisch."
+      }
+    ]
+  },
+  "final": {
+    "title": "Morgen früh sind deine Bewertungen beantwortet",
+    "subtitle": "Erster Monat gratis. Keine Kreditkarte, keine Verpflichtung. Die Einrichtung übernehmen wir.",
+    "cta": "Gratis starten",
+    "note": "Oder schau dir erst die Demo an — echte Oberfläche, Beispieldaten."
+  },
+  "footer": {
+    "tagline": "KI-Agenten für kleine Betriebe in den Niederlanden. Alles über WhatsApp.",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "links": {
+      "modules": "Module",
+      "pricing": "Preise",
+      "demo": "Demo",
+      "referral": "Partnerprogramm",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "privacy": "Datenschutz",
+      "terms": "AGB"
+    },
+    "rights": "Alle Rechte vorbehalten.",
+    "kvk": "KvK 00000000 · USt-IdNr. NL000000000B01 · Amsterdam"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "updated": "Zuletzt aktualisiert: 22. August 2026",
+      "intro": "SmallBusinessAI verarbeitet personenbezogene Daten der Betriebe, die unseren Dienst nutzen, sowie deren Kunden. In dieser Erklärung legen wir dar, welche Daten wir erheben, warum, und welche Rechte du nach der Datenschutz-Grundverordnung (DSGVO) hast.",
+      "sections": [
+        {
+          "h": "1. Wer wir sind",
+          "body": [
+            "SmallBusinessAI mit Sitz in Amsterdam, eingetragen bei der niederländischen Handelskammer unter der Nummer 00000000, ist Verantwortlicher für die Daten seiner Kunden und Auftragsverarbeiter für die Daten, die im Auftrag der Kunden verarbeitet werden.",
+            "Kontakt: privacy@smallbusinessai.nl"
+          ]
+        },
+        {
+          "h": "2. Welche Daten wir verarbeiten",
+          "body": [
+            "Kontodaten: Name, E-Mail-Adresse, Telefonnummer, Firmenname, Handelskammernummer und Rechnungsadresse.",
+            "Daten aus dem Google-Unternehmensprofil: Bewertungen, Sterne, Öffnungszeiten und Unternehmensangaben. Wir lesen diese ausschließlich, nachdem du uns über Google OAuth ausdrücklich Zugriff erteilt hast.",
+            "Social-Media-Daten: Beiträge, Statistiken und Direktnachrichten verbundener Instagram- und Facebook-Konten, ausschließlich nach deiner Freigabe über Meta.",
+            "WhatsApp-Daten: Telefonnummern und Nachrichten, die über die WhatsApp Business Plattform ausgetauscht werden.",
+            "Nutzungsdaten: Anmeldedaten, IP-Adresse und Aktionen im Panel, zur Sicherheit und Fehlersuche."
+          ]
+        },
+        {
+          "h": "3. Warum wir diese Daten verarbeiten",
+          "body": [
+            "Zur Erbringung des Dienstes: Bewertungen abrufen, Antwortentwürfe erzeugen, nach deiner Freigabe veröffentlichen und Berichte erstellen.",
+            "Um dich über WhatsApp über neue Bewertungen, Kampagnen und Berichte zu informieren.",
+            "Zur Verbesserung des Dienstes und zur Behebung von Störungen.",
+            "Zur Erfüllung gesetzlicher Pflichten, etwa der siebenjährigen steuerlichen Aufbewahrungspflicht für Rechnungen."
+          ]
+        },
+        {
+          "h": "4. Rechtsgrundlage",
+          "body": [
+            "Wir verarbeiten Daten auf Grundlage der Vertragserfüllung, deiner Einwilligung (etwa beim Verbinden von Google oder Meta) sowie eines berechtigten Interesses an Sicherheit und Verbesserung des Dienstes.",
+            "Die Einwilligung kannst du jederzeit widerrufen, indem du die Verbindung im Panel trennst."
+          ]
+        },
+        {
+          "h": "5. Künstliche Intelligenz",
+          "body": [
+            "Zur Erstellung von Textentwürfen nutzen wir Sprachmodelle von Anthropic (Claude). Bewertungstexte und Unternehmensangaben werden dafür an diesen Auftragsverarbeiter übermittelt.",
+            "Diese Daten werden nicht zum Training der Modelle verwendet.",
+            "Erzeugte Texte werden niemals automatisch veröffentlicht. Eine Veröffentlichung erfolgt ausschließlich nach deiner ausdrücklichen Freigabe."
+          ]
+        },
+        {
+          "h": "6. Weitergabe an Dritte",
+          "body": [
+            "Wir geben Daten ausschließlich an Auftragsverarbeiter weiter, die zur Erbringung des Dienstes nötig sind: Google (Business Profile API), Meta (WhatsApp und Graph API), Anthropic (KI), Supabase (Datenbank), Vercel und Railway (Hosting), Mollie und Stripe (Zahlungen).",
+            "Mit allen diesen Parteien besteht ein Auftragsverarbeitungsvertrag. Wir verkaufen niemals Daten an Dritte."
+          ]
+        },
+        {
+          "h": "7. Speicherfristen",
+          "body": [
+            "Kontodaten speichern wir, solange du Kunde bist, und danach zwölf Monate.",
+            "Bewertungen und erzeugte Antworten speichern wir vierundzwanzig Monate zu Auswertungszwecken.",
+            "Rechnungen speichern wir sieben Jahre aufgrund der steuerlichen Aufbewahrungspflicht.",
+            "Nach Kündigung kannst du die Löschung verlangen; wir löschen dann innerhalb von dreißig Tagen alles, was wir nicht gesetzlich aufbewahren müssen."
+          ]
+        },
+        {
+          "h": "8. Deine Rechte",
+          "body": [
+            "Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch und Datenübertragbarkeit.",
+            "Sende deine Anfrage an privacy@smallbusinessai.nl. Wir antworten innerhalb von dreißig Tagen.",
+            "Bist du mit unserer Bearbeitung nicht einverstanden, kannst du dich bei der niederländischen Datenschutzbehörde (Autoriteit Persoonsgegevens) beschweren."
+          ]
+        },
+        {
+          "h": "9. Sicherheit",
+          "body": [
+            "Daten werden verschlüsselt gespeichert und übertragen. Zugriffstoken von Google und Meta werden zusätzlich verschlüsselt aufbewahrt.",
+            "Der Zugriff im Team ist auf die Personen beschränkt, die ihn benötigen. Zugriffsprotokolle werden geführt."
+          ]
+        },
+        {
+          "h": "10. Änderungen",
+          "body": [
+            "Wir können diese Erklärung anpassen. Bei wesentlichen Änderungen informieren wir dich mindestens dreißig Tage vorher per E-Mail und über das Panel."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Allgemeine Geschäftsbedingungen",
+      "updated": "Zuletzt aktualisiert: 22. August 2026",
+      "intro": "Diese Bedingungen gelten für die Nutzung von SmallBusinessAI durch gewerbliche Kunden.",
+      "sections": [
+        {
+          "h": "1. Leistung",
+          "body": [
+            "SmallBusinessAI stellt eine Software bereit, mit der Betriebe Bewertungen beantworten, Social Media verwalten und mit Kunden kommunizieren — unterstützt durch künstliche Intelligenz.",
+            "Die Leistung wird als Abonnement erbracht und monatlich oder jährlich abgerechnet."
+          ]
+        },
+        {
+          "h": "2. Testphase und Kündigung",
+          "body": [
+            "Der erste Monat ist kostenlos und unverbindlich.",
+            "Nach der Testphase gilt eine Mindestlaufzeit von drei Monaten. Danach ist das Abonnement mit einer Frist von einem Monat monatlich kündbar.",
+            "Die Kündigung ist über das Panel oder per E-Mail möglich."
+          ]
+        },
+        {
+          "h": "3. Verantwortung für veröffentlichte Inhalte",
+          "body": [
+            "Alle vom System erzeugten Texte sind Entwürfe. Eine Veröffentlichung erfolgt ausschließlich nach ausdrücklicher Freigabe durch den Kunden.",
+            "Der Kunde bleibt für die unter seinem Firmennamen veröffentlichten Inhalte verantwortlich.",
+            "SmallBusinessAI haftet nicht für Folgen vom Kunden freigegebener Veröffentlichungen."
+          ]
+        },
+        {
+          "h": "4. Schnittstellen zu Dritten",
+          "body": [
+            "Der Dienst nutzt Leistungen von Google, Meta, Mollie und Stripe. Für diese Schnittstellen gelten zusätzlich die Bedingungen der jeweiligen Anbieter.",
+            "Änderungen oder Störungen dieser Dienste können die Funktion beeinträchtigen. Wir bemühen uns, Störungen schnellstmöglich zu beheben."
+          ]
+        },
+        {
+          "h": "5. Verfügbarkeit",
+          "body": [
+            "Wir streben eine Verfügbarkeit von 99 % pro Monat an, ausgenommen angekündigte Wartungsarbeiten.",
+            "Geplante Wartungsfenster liegen nach Möglichkeit außerhalb der üblichen Öffnungszeiten."
+          ]
+        },
+        {
+          "h": "6. Zahlung",
+          "body": [
+            "Die Zahlung erfolgt per Lastschrift, iDEAL oder Kreditkarte.",
+            "Bei ausbleibender Zahlung kann der Dienst nach zwei Mahnungen ausgesetzt werden.",
+            "Alle Beträge verstehen sich zuzüglich 21 % Umsatzsteuer."
+          ]
+        },
+        {
+          "h": "7. Partnerprogramm",
+          "body": [
+            "Teilnehmer erhalten Provision auf zahlende Kunden, die sie vermitteln, solange dieser Kunde zahlt.",
+            "Die Provision wird monatlich ab einem Guthaben von 50 € ausgezahlt.",
+            "Selbstvermittlung, irreführende Werbung und Spam führen zum Ausschluss."
+          ]
+        },
+        {
+          "h": "8. Haftung",
+          "body": [
+            "Unsere Haftung ist auf den Betrag begrenzt, den der Kunde in den zwölf Monaten vor dem Ereignis gezahlt hat.",
+            "Für entgangenen Gewinn und mittelbare Schäden haften wir nicht."
+          ]
+        },
+        {
+          "h": "9. Anwendbares Recht",
+          "body": [
+            "Auf diesen Vertrag ist niederländisches Recht anwendbar. Streitigkeiten werden dem zuständigen Gericht in Amsterdam vorgelegt."
+          ]
+        }
+      ]
+    }
+  },
+  "dash": {
+    "demoBanner": "Demo-Ansicht — Google- und WhatsApp-Anbindung mit Beispieldaten simuliert",
+    "nav": {
+      "overview": "Übersicht",
+      "reviews": "Bewertungen",
+      "social": "Social Media",
+      "whatsapp": "WhatsApp",
+      "reports": "Berichte",
+      "backToSite": "Zurück zur Website"
+    },
+    "common": {
+      "connected": "Verbunden",
+      "approve": "Freigeben und senden",
+      "edit": "Bearbeiten",
+      "regenerate": "Neu erzeugen",
+      "published": "Veröffentlicht",
+      "pending": "Wartet auf Freigabe",
+      "approved": "Freigegeben",
+      "urgent": "Dringend",
+      "aiDraft": "KI-Entwurf",
+      "viewAll": "Alle ansehen",
+      "minutesAgo": "Min. her",
+      "hoursAgo": "Std. her"
+    },
+    "overview": {
+      "title": "Guten Morgen",
+      "subtitle": "Das ist passiert, während der Laden zu war.",
+      "stats": {
+        "rating": "Google-Bewertung",
+        "pending": "Wartet auf Freigabe",
+        "response": "Ø Reaktionszeit",
+        "saved": "Gesparte Provision"
+      },
+      "trendTitle": "Bewertungsverlauf",
+      "trendSub": "Letzte 8 Wochen",
+      "ordersTitle": "Bestellungen pro Tag",
+      "ordersSub": "Direkt gegenüber Plattform",
+      "ordersDirect": "Direkt",
+      "ordersPlatform": "Plattform",
+      "urgentTitle": "Braucht Aufmerksamkeit",
+      "activityTitle": "Letzte Aktivität"
+    },
+    "reviews": {
+      "title": "Bewertungen",
+      "subtitle": "Alle zwei Stunden geprüft. Entwürfe stehen bereit.",
+      "filters": { "all": "Alle", "pending": "Wartet auf Freigabe", "published": "Veröffentlicht" },
+      "empty": "Keine Bewertungen in dieser Ansicht.",
+      "draftLabel": "Vorgeschlagene Antwort",
+      "publishedLabel": "Auf Google veröffentlicht um"
+    },
+    "social": {
+      "title": "Social Media",
+      "subtitle": "Drei Posts pro Woche, automatisch vorgeschlagen.",
+      "triggers": { "weather": "Wetter-Trigger", "event": "Veranstaltung", "menu": "Menü" },
+      "status": { "draft": "Entwurf", "scheduled": "Geplant", "published": "Veröffentlicht" },
+      "likes": "Likes",
+      "reach": "Reichweite"
+    },
+    "whatsapp": {
+      "title": "WhatsApp-Simulation",
+      "subtitle": "Genau das landet auf dem Handy des Betriebsinhabers.",
+      "hint": "Tippe auf eine Antwortschaltfläche, um den Ablauf durchzugehen.",
+      "replyPlaceholder": "Nachricht schreiben",
+      "legendTitle": "Nachrichtentypen",
+      "legend": {
+        "alert": "Kritische Bewertung — sofort",
+        "reminder": "Morgenerinnerung — 10:00",
+        "campaign": "Kampagnenvorschlag",
+        "report": "Wochenbericht — Montag 09:00"
+      }
+    },
+    "reports": {
+      "title": "Wochenbericht",
+      "subtitle": "Jeden Montag um 09:00 Uhr automatisch in dein WhatsApp.",
+      "week": "Woche",
+      "channelsTitle": "Nach Kanal",
+      "highlightsTitle": "Wichtigste Zahlen",
+      "customersTitle": "Kunden",
+      "segments": {
+        "loyal": "Stammkunde",
+        "at_risk": "Abwanderung droht",
+        "new": "Neu",
+        "birthday": "Diese Woche Geburtstag"
+      },
+      "tableHeaders": {
+        "customer": "Kunde",
+        "orders": "Bestellungen",
+        "last": "Letzte Bestellung",
+        "value": "Umsatz",
+        "segment": "Segment"
+      },
+      "ago": "her"
+    }
+  }
+}

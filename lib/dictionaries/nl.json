@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "title": "SmallBusinessAI — AI-assistent voor Nederlandse ondernemers",
+    "description": "Reviews beantwoord, social media bijgehouden en klanten teruggewonnen. Alles via WhatsApp, vanaf €79 per maand."
+  },
+  "nav": {
+    "modules": "Modules",
+    "sectors": "Voor wie",
+    "pricing": "Prijzen",
+    "referral": "Partnerprogramma",
+    "faq": "Vragen",
+    "dashboard": "Bekijk demo",
+    "cta": "Eerste maand gratis"
+  },
+  "hero": {
+    "badge": "Werkt volledig via WhatsApp",
+    "title": "Je Google-reviews zijn al beantwoord",
+    "titleAccent": "voordat je de zaak opendoet",
+    "subtitle": "SmallBusinessAI beantwoordt je reviews, plaatst je social media en wint verloren klanten terug. Jij keurt alles goed met één berichtje op WhatsApp. Geen nieuwe app, geen extra scherm.",
+    "ctaPrimary": "Eerste maand gratis",
+    "ctaSecondary": "Bekijk de demo",
+    "note": "Geen creditcard nodig · Nederlands, Turks, Arabisch en Duits",
+    "stats": [
+      { "value": "4,3 ⭐", "label": "gemiddelde score na 3 maanden" },
+      { "value": "< 6 uur", "label": "reactietijd op reviews" },
+      { "value": "€287", "label": "commissie bespaard per maand" }
+    ]
+  },
+  "problem": {
+    "eyebrow": "Het probleem",
+    "title": "Je hebt geen tijd. Je concurrent wel.",
+    "subtitle": "Nederland telt meer dan 1,8 miljoen mkb-bedrijven. De meeste ondernemers lopen tegen dezelfde zes dingen aan.",
+    "items": [
+      {
+        "title": "Reviews blijven onbeantwoord",
+        "body": "Geen antwoord betekent een lagere positie in Google Maps. Elke week zonder reactie kost je zichtbaarheid."
+      },
+      {
+        "title": "Social media staat stil",
+        "body": "78% van het mkb post niet regelmatig. Je concurrent plaatst dagelijks iets, jouw account is weken oud."
+      },
+      {
+        "title": "Een bureau is te duur",
+        "body": "Een social-mediabureau kost €300 tot €800 per maand. Voor een zaak met vijf man personeel is dat niet haalbaar."
+      },
+      {
+        "title": "AI wil je wel, maar hoe?",
+        "body": "67% zegt AI te willen gebruiken maar niet te weten hoe. De drempel zit in de techniek, niet in de wil."
+      },
+      {
+        "title": "30% commissie per bestelling",
+        "body": "Bezorgplatforms nemen tot 30% van elke bestelling. Je hebt geen alternatief om klanten direct te bereiken."
+      },
+      {
+        "title": "Vertrokken klanten merk je niet",
+        "body": "Een vaste klant die drie weken niet is geweest, komt vaak nooit meer terug. Niemand die het opmerkt."
+      }
+    ]
+  },
+  "day": {
+    "eyebrow": "Hoe het werkt",
+    "title": "Een dag met SmallBusinessAI",
+    "subtitle": "Je doet niets anders dan je zaak runnen. De rest gebeurt op de achtergrond en komt naar je WhatsApp.",
+    "items": [
+      {
+        "time": "07:00",
+        "title": "Je opent de zaak",
+        "body": "De review van 2 sterren die om 02:14 binnenkwam, is al beantwoord. Het weekrapport wacht in je WhatsApp."
+      },
+      {
+        "time": "09:00",
+        "title": "Instagram-post staat klaar",
+        "body": "\"Vandaag vers gesneden kipdöner.\" Jij stuurt \"1\". De post is live."
+      },
+      {
+        "time": "12:30",
+        "title": "Het is spitsuur",
+        "body": "Geen tijd voor je telefoon. Ondertussen zijn drie DM-vragen automatisch beantwoord."
+      },
+      {
+        "time": "15:00",
+        "title": "Concurrent verlaagt prijs",
+        "body": "Bericht op WhatsApp: \"Döner King zit €0,50 lager. Combodeal proberen?\" Jij keurt goed, de campagne loopt."
+      },
+      {
+        "time": "19:00",
+        "title": "Het gaat regenen",
+        "body": "KNMI-data triggert automatisch: \"Vanavond gratis drankje bij bezorging.\" 23 directe bestellingen, nul commissie."
+      },
+      {
+        "time": "23:00",
+        "title": "Je gaat naar huis",
+        "body": "Vier reviews beantwoord, één campagne gedraaid, €67 aan commissie bespaard. Jij hebt er twee minuten aan besteed."
+      }
+    ]
+  },
+  "modules": {
+    "eyebrow": "Wat je krijgt",
+    "title": "Vijf modules, één WhatsApp-nummer",
+    "subtitle": "Elke module bestaat uit AI-agents die zelfstandig werken. Samen zijn ze sterker, los werken ze ook.",
+    "items": [
+      {
+        "name": "Reputatie & reviews",
+        "tagline": "Je Google-score is je digitale etalage",
+        "points": [
+          "Koppeling met Google Bedrijfsprofiel via één keer toestemming geven",
+          "Elke twee uur automatisch scannen op nieuwe reviews",
+          "Persoonlijk conceptantwoord in het Nederlands, passend bij jouw toon",
+          "Directe WhatsApp-alarm bij 1 of 2 sterren — ook om drie uur 's nachts"
+        ]
+      },
+      {
+        "name": "Social media",
+        "tagline": "Drie posts per week, zonder dat jij iets bedenkt",
+        "points": [
+          "Instagram en Facebook via de officiële Meta-koppeling",
+          "Weer-trigger: KNMI meldt regen, jij hebt een bezorgactie klaar",
+          "Lokale agenda: Ajax-wedstrijd, Koningsdag, Ramadan en Eid",
+          "Prijsbewaking van concurrenten op bezorgplatforms"
+        ]
+      },
+      {
+        "name": "WhatsApp & klanten",
+        "tagline": "Bestellen zonder 30% commissie",
+        "points": [
+          "Bestelbot via WhatsApp Business met iDEAL-betaling",
+          "Digitale stempelkaart: tien bestellingen, één gratis",
+          "Terugwinbot: drie weken geen bestelling, automatisch een aanbieding",
+          "Verjaardagsbericht met persoonlijke kortingscode"
+        ]
+      },
+      {
+        "name": "Operatie & voorraad",
+        "tagline": "Van onderbuikgevoel naar cijfers",
+        "points": [
+          "Bonnetjes fotograferen, boekhouding vult zichzelf via OCR",
+          "Vraagvoorspelling op basis van verkoop, weer en evenementen",
+          "Prijsvergelijking bij Sligro, Makro en Hanos",
+          "Personeelsplanning op basis van verwachte drukte"
+        ]
+      },
+      {
+        "name": "Rapportage",
+        "tagline": "Elke maandag om 09:00 in je WhatsApp",
+        "points": [
+          "Weekrapport in gewone taal, geen technische termen",
+          "Winst en verlies in euro's, inclusief bespaarde commissie",
+          "Lokale SEO: beter vindbaar in Google en AI-zoekmachines",
+          "Meerdere vestigingen in één overzicht"
+        ]
+      }
+    ]
+  },
+  "sectors": {
+    "eyebrow": "Voor wie",
+    "title": "Gebouwd voor jouw branche",
+    "subtitle": "Geen algemeen AI-gereedschap. Elke branche heeft eigen agents, eigen toon en eigen campagnes.",
+    "items": [
+      { "icon": "🥙", "name": "Döner & shoarma", "problem": "Lage Google-score en hoge platformcommissie" },
+      { "icon": "💈", "name": "Kapper & barbier", "problem": "Social media staat stil, klanten komen niet opdagen" },
+      { "icon": "🔧", "name": "Reparatie", "problem": "Offertes zonder opvolging, klant weet de status niet" },
+      { "icon": "🛒", "name": "Minimarkt", "problem": "Geen voorraadvoorspelling, geen acties" }
+    ]
+  },
+  "compare": {
+    "eyebrow": "Waarom wij",
+    "title": "Er is geen directe concurrent in Nederland",
+    "subtitle": "De bestaande alternatieven lossen telkens één stukje op — en meestal niet in het Nederlands.",
+    "headers": { "name": "Alternatief", "why": "Waarom het tekortschiet" },
+    "rows": [
+      { "name": "Broadly (VS)", "why": "Niet actief in Nederland, Engelstalig, geen lokale koppelingen" },
+      { "name": "Malou (NL)", "why": "Alleen Google-reviews. Geen WhatsApp, geen social media" },
+      { "name": "Vendasta (CA)", "why": "Gericht op grote bedrijven, vanaf €500 per maand" },
+      { "name": "Owner.com (VS)", "why": "Alleen bestellingen, geen iDEAL" },
+      { "name": "Social-mediabureau", "why": "€300–800 per maand, mensenwerk, niet 24/7" },
+      { "name": "ChatGPT of andere AI", "why": "Niet branchespecifiek, je moet het zelf bedienen" }
+    ],
+    "us": {
+      "name": "SmallBusinessAI",
+      "why": "Alles in één · vanaf €79 · via WhatsApp · Nederlands en Turks · gemaakt voor Nederland"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prijzen",
+    "title": "Minder dan een kwart van een bureau",
+    "subtitle": "Eerste maand gratis, zonder creditcard. Daarna 20% korting bij jaarbetaling.",
+    "period": "per maand",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "€79",
+        "desc": "Voor wie begint met reviews en zichtbaarheid",
+        "features": [
+          "Reputatie & reviews volledig",
+          "Eén Google-bedrijfsprofiel",
+          "WhatsApp-meldingen en weekrapport",
+          "Eén social-mediakanaal",
+          "E-mailondersteuning"
+        ],
+        "cta": "Gratis beginnen"
+      },
+      {
+        "name": "Business",
+        "price": "€129",
+        "desc": "Voor zaken die ook willen groeien in omzet",
+        "badge": "Meest gekozen",
+        "features": [
+          "Alles uit Starter",
+          "Social media volledig (Instagram + Facebook)",
+          "Weer- en evenementcampagnes",
+          "Klantenbestand en stempelkaart",
+          "Terugwinbot voor vertrokken klanten",
+          "WhatsApp-ondersteuning"
+        ],
+        "cta": "Gratis beginnen"
+      },
+      {
+        "name": "Pro",
+        "price": "€199",
+        "desc": "Voor meerdere vestigingen en volledige automatisering",
+        "features": [
+          "Alles uit Business",
+          "Bestelbot met iDEAL, zonder commissie",
+          "Bonnetjes scannen en boekhoudkoppeling",
+          "Vraagvoorspelling en personeelsplanning",
+          "Meerdere vestigingen",
+          "Vaste contactpersoon"
+        ],
+        "cta": "Neem contact op"
+      }
+    ],
+    "notes": [
+      "Eerste maand gratis voor iedereen, geen creditcard nodig",
+      "20% korting bij jaarlijkse betaling",
+      "Minimaal drie maanden na de proefperiode"
+    ]
+  },
+  "referral": {
+    "eyebrow": "Partnerprogramma",
+    "title": "Verdien mee, zolang je klant blijft",
+    "subtitle": "Breng een ondernemer aan met je eigen link en ontvang commissie zolang die klant betaalt. Levenslang, automatisch.",
+    "body": "Ken je tien collega-ondernemers? Bij het Business-pakket levert dat bij 10% commissie €129 per maand op. Zonder werk, zonder einddatum.",
+    "headers": { "tier": "Niveau", "refs": "Aangebrachte klanten", "rate": "Commissie" },
+    "tiers": { "bronze": "Brons", "silver": "Zilver", "gold": "Goud", "elite": "Elite" },
+    "note": "Uitbetaling maandelijks via Stripe Connect, vanaf €50."
+  },
+  "faq": {
+    "eyebrow": "Vragen",
+    "title": "Wat ondernemers ons vragen",
+    "items": [
+      {
+        "q": "Moet ik een nieuwe app leren?",
+        "a": "Nee. Alles loopt via WhatsApp, dezelfde app die je al de hele dag gebruikt. Meldingen, goedkeuringen en rapporten komen als gewoon bericht binnen. Er is ook een webpaneel, maar dat is optioneel."
+      },
+      {
+        "q": "Plaatst de AI zomaar dingen namens mij?",
+        "a": "Nooit zonder jouw akkoord. Elk antwoord en elke post krijg je eerst als concept. Je stuurt \"1\" om te versturen of \"2\" om aan te passen. Je houdt volledige controle."
+      },
+      {
+        "q": "Klinkt het niet als een robot?",
+        "a": "We stellen de toon in op jouw zaak: informeel of formeel, met of zonder emoji, Nederlands of Turks. Na de eerste week past het systeem zich aan op de antwoorden die je zelf hebt bijgeschaafd."
+      },
+      {
+        "q": "Wat gebeurt er met mijn klantgegevens?",
+        "a": "Alles wordt binnen de EU verwerkt en opgeslagen, volledig volgens de AVG. Je krijgt een verwerkersovereenkomst. Je kunt je gegevens op elk moment exporteren of laten verwijderen."
+      },
+      {
+        "q": "Kan ik zomaar stoppen?",
+        "a": "De eerste maand is gratis en vrijblijvend. Daarna geldt een minimum van drie maanden, omdat de eerste inrichting tijd kost. Daarna maandelijks opzegbaar."
+      },
+      {
+        "q": "Ik spreek liever Turks of Arabisch.",
+        "a": "Dat kan. De begeleiding, het paneel en alle WhatsApp-berichten zijn beschikbaar in het Nederlands, Turks, Duits en Engels. Antwoorden aan je klanten blijven standaard in het Nederlands."
+      }
+    ]
+  },
+  "final": {
+    "title": "Morgenochtend zijn je reviews beantwoord",
+    "subtitle": "Eerste maand gratis. Geen creditcard, geen verplichting. We richten alles voor je in.",
+    "cta": "Begin gratis",
+    "note": "Of bekijk eerst de demo — echte interface, voorbeelddata."
+  },
+  "footer": {
+    "tagline": "AI-agents voor Nederlandse ondernemers. Alles via WhatsApp.",
+    "product": "Product",
+    "company": "Bedrijf",
+    "legal": "Juridisch",
+    "links": {
+      "modules": "Modules",
+      "pricing": "Prijzen",
+      "demo": "Demo",
+      "referral": "Partnerprogramma",
+      "about": "Over ons",
+      "contact": "Contact",
+      "privacy": "Privacybeleid",
+      "terms": "Algemene voorwaarden"
+    },
+    "rights": "Alle rechten voorbehouden.",
+    "kvk": "KvK 00000000 · BTW NL000000000B01 · Amsterdam"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacybeleid",
+      "updated": "Laatst bijgewerkt: 22 augustus 2026",
+      "intro": "SmallBusinessAI verwerkt persoonsgegevens van ondernemers die onze dienst gebruiken en van hun klanten. In dit beleid leggen we uit welke gegevens we verzamelen, waarom, en welke rechten je hebt onder de Algemene verordening gegevensbescherming (AVG).",
+      "sections": [
+        {
+          "h": "1. Wie zijn wij",
+          "body": [
+            "SmallBusinessAI, gevestigd te Amsterdam, ingeschreven bij de Kamer van Koophandel onder nummer 00000000, is verwerkingsverantwoordelijke voor de gegevens van haar klanten en verwerker voor de gegevens die zij namens klanten verwerkt.",
+            "Contact: privacy@smallbusinessai.nl"
+          ]
+        },
+        {
+          "h": "2. Welke gegevens wij verwerken",
+          "body": [
+            "Accountgegevens: naam, e-mailadres, telefoonnummer, bedrijfsnaam, KvK-nummer en factuuradres.",
+            "Bedrijfsgegevens uit Google Bedrijfsprofiel: reviews, beoordelingen, openingstijden en bedrijfsinformatie. Wij lezen deze uitsluitend nadat je ons via Google OAuth expliciet toegang hebt gegeven.",
+            "Social-mediagegevens: berichten, statistieken en directe berichten van gekoppelde Instagram- en Facebook-accounts, uitsluitend na jouw toestemming via Meta.",
+            "WhatsApp-gegevens: telefoonnummers en berichten die via het WhatsApp Business Platform worden uitgewisseld.",
+            "Gebruiksgegevens: inloggegevens, IP-adres en handelingen binnen het paneel, voor beveiliging en foutopsporing."
+          ]
+        },
+        {
+          "h": "3. Waarom wij deze gegevens verwerken",
+          "body": [
+            "Om de dienst te leveren: reviews ophalen, conceptantwoorden genereren, berichten plaatsen na jouw goedkeuring en rapportages maken.",
+            "Om je te informeren via WhatsApp over nieuwe reviews, campagnes en rapporten.",
+            "Om de dienst te verbeteren en storingen op te lossen.",
+            "Om te voldoen aan wettelijke verplichtingen, zoals de fiscale bewaarplicht van zeven jaar voor facturen."
+          ]
+        },
+        {
+          "h": "4. Grondslag",
+          "body": [
+            "Wij verwerken gegevens op basis van de uitvoering van de overeenkomst met jou, op basis van jouw toestemming (bijvoorbeeld bij het koppelen van Google of Meta) en op basis van een gerechtvaardigd belang bij beveiliging en dienstverbetering.",
+            "Toestemming kun je op elk moment intrekken door de koppeling in je paneel te verbreken."
+          ]
+        },
+        {
+          "h": "5. Kunstmatige intelligentie",
+          "body": [
+            "Voor het genereren van conceptteksten gebruiken wij taalmodellen van Anthropic (Claude). Reviewteksten en bedrijfsinformatie worden daarvoor naar deze verwerker gestuurd.",
+            "Deze gegevens worden niet gebruikt om de modellen te trainen.",
+            "Gegenereerde teksten worden nooit automatisch gepubliceerd. Publicatie gebeurt uitsluitend nadat jij expliciet akkoord hebt gegeven."
+          ]
+        },
+        {
+          "h": "6. Delen met derden",
+          "body": [
+            "Wij delen gegevens uitsluitend met verwerkers die nodig zijn om de dienst te leveren: Google (Business Profile API), Meta (WhatsApp en Graph API), Anthropic (AI), Supabase (database), Vercel en Railway (hosting), Mollie en Stripe (betalingen).",
+            "Met al deze partijen hebben wij een verwerkersovereenkomst. Wij verkopen nooit gegevens aan derden."
+          ]
+        },
+        {
+          "h": "7. Bewaartermijnen",
+          "body": [
+            "Accountgegevens bewaren wij zolang je klant bent en daarna twaalf maanden.",
+            "Reviews en gegenereerde antwoorden bewaren wij vierentwintig maanden voor rapportagedoeleinden.",
+            "Facturen bewaren wij zeven jaar op grond van de fiscale bewaarplicht.",
+            "Na opzegging kun je verwijdering aanvragen; wij verwijderen dan binnen dertig dagen alles wat wij niet wettelijk moeten bewaren."
+          ]
+        },
+        {
+          "h": "8. Jouw rechten",
+          "body": [
+            "Je hebt recht op inzage, correctie, verwijdering, beperking van de verwerking, bezwaar en gegevensoverdraagbaarheid.",
+            "Stuur een verzoek naar privacy@smallbusinessai.nl. Wij reageren binnen dertig dagen.",
+            "Ben je het oneens met onze afhandeling, dan kun je een klacht indienen bij de Autoriteit Persoonsgegevens."
+          ]
+        },
+        {
+          "h": "9. Beveiliging",
+          "body": [
+            "Gegevens worden versleuteld opgeslagen en verstuurd. Toegangstokens van Google en Meta worden apart versleuteld bewaard.",
+            "Toegang binnen ons team is beperkt tot wie het nodig heeft. Wij houden toegangslogboeken bij."
+          ]
+        },
+        {
+          "h": "10. Wijzigingen",
+          "body": [
+            "Wij kunnen dit beleid aanpassen. Bij ingrijpende wijzigingen informeren wij je per e-mail en via het paneel, minimaal dertig dagen van tevoren."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Algemene voorwaarden",
+      "updated": "Laatst bijgewerkt: 22 augustus 2026",
+      "intro": "Deze voorwaarden gelden voor het gebruik van SmallBusinessAI door zakelijke afnemers.",
+      "sections": [
+        {
+          "h": "1. Dienst",
+          "body": [
+            "SmallBusinessAI levert software waarmee ondernemers reviews beantwoorden, social media beheren en met klanten communiceren, ondersteund door kunstmatige intelligentie.",
+            "De dienst wordt geleverd als abonnement en per maand of per jaar gefactureerd."
+          ]
+        },
+        {
+          "h": "2. Proefperiode en opzegging",
+          "body": [
+            "De eerste maand is kosteloos en vrijblijvend.",
+            "Na de proefperiode geldt een minimale looptijd van drie maanden. Daarna is het abonnement maandelijks opzegbaar met een opzegtermijn van één maand.",
+            "Opzeggen kan via het paneel of per e-mail."
+          ]
+        },
+        {
+          "h": "3. Verantwoordelijkheid voor gepubliceerde content",
+          "body": [
+            "Alle teksten die het systeem genereert zijn concepten. Publicatie vindt uitsluitend plaats na expliciete goedkeuring door de klant.",
+            "De klant blijft verantwoordelijk voor de inhoud die onder zijn bedrijfsnaam wordt gepubliceerd.",
+            "SmallBusinessAI is niet aansprakelijk voor gevolgen van door de klant goedgekeurde publicaties."
+          ]
+        },
+        {
+          "h": "4. Koppelingen met derden",
+          "body": [
+            "De dienst maakt gebruik van diensten van Google, Meta, Mollie en Stripe. Op die koppelingen zijn ook de voorwaarden van die partijen van toepassing.",
+            "Wijzigingen of storingen in die diensten kunnen de werking beïnvloeden. Wij spannen ons in om storingen zo snel mogelijk op te lossen."
+          ]
+        },
+        {
+          "h": "5. Beschikbaarheid",
+          "body": [
+            "Wij streven naar een beschikbaarheid van 99% per maand, exclusief gepland onderhoud dat vooraf wordt aangekondigd.",
+            "Geplande onderhoudsvensters vallen buiten reguliere openingstijden waar mogelijk."
+          ]
+        },
+        {
+          "h": "6. Betaling",
+          "body": [
+            "Betaling verloopt via automatische incasso, iDEAL of creditcard.",
+            "Bij uitblijvende betaling kan de dienst na twee herinneringen worden opgeschort.",
+            "Alle bedragen zijn exclusief 21% btw."
+          ]
+        },
+        {
+          "h": "7. Partnerprogramma",
+          "body": [
+            "Deelnemers ontvangen commissie over betalende klanten die zij aanbrengen, zolang die klant betaalt.",
+            "Commissie wordt maandelijks uitbetaald vanaf een saldo van €50.",
+            "Zelfverwijzing, misleidende reclame en spam leiden tot uitsluiting."
+          ]
+        },
+        {
+          "h": "8. Aansprakelijkheid",
+          "body": [
+            "Onze aansprakelijkheid is beperkt tot het bedrag dat de klant in de twaalf maanden voorafgaand aan het voorval heeft betaald.",
+            "Wij zijn niet aansprakelijk voor gederfde winst of indirecte schade."
+          ]
+        },
+        {
+          "h": "9. Toepasselijk recht",
+          "body": [
+            "Op deze overeenkomst is Nederlands recht van toepassing. Geschillen worden voorgelegd aan de bevoegde rechter te Amsterdam."
+          ]
+        }
+      ]
+    }
+  },
+  "dash": {
+    "demoBanner": "Demovoorbeeld — Google- en WhatsApp-koppeling gesimuleerd met voorbeelddata",
+    "nav": {
+      "overview": "Overzicht",
+      "reviews": "Reviews",
+      "social": "Social media",
+      "whatsapp": "WhatsApp",
+      "reports": "Rapporten",
+      "backToSite": "Terug naar site"
+    },
+    "common": {
+      "connected": "Gekoppeld",
+      "approve": "Goedkeuren en plaatsen",
+      "edit": "Aanpassen",
+      "regenerate": "Opnieuw genereren",
+      "published": "Geplaatst",
+      "pending": "Wacht op akkoord",
+      "approved": "Goedgekeurd",
+      "urgent": "Urgent",
+      "aiDraft": "AI-concept",
+      "viewAll": "Alles bekijken",
+      "minutesAgo": "min geleden",
+      "hoursAgo": "uur geleden"
+    },
+    "overview": {
+      "title": "Goedemorgen",
+      "subtitle": "Dit is er gebeurd terwijl de zaak dicht was.",
+      "stats": {
+        "rating": "Google-score",
+        "pending": "Wacht op akkoord",
+        "response": "Gem. reactietijd",
+        "saved": "Commissie bespaard"
+      },
+      "trendTitle": "Score-ontwikkeling",
+      "trendSub": "Laatste 8 weken",
+      "ordersTitle": "Bestellingen per dag",
+      "ordersSub": "Direct versus via platform",
+      "ordersDirect": "Direct",
+      "ordersPlatform": "Platform",
+      "urgentTitle": "Vraagt om aandacht",
+      "activityTitle": "Recente activiteit"
+    },
+    "reviews": {
+      "title": "Reviews",
+      "subtitle": "Elke twee uur gescand. Concepten staan klaar.",
+      "filters": { "all": "Alles", "pending": "Wacht op akkoord", "published": "Geplaatst" },
+      "empty": "Geen reviews in deze weergave.",
+      "draftLabel": "Voorgesteld antwoord",
+      "publishedLabel": "Geplaatst op Google om"
+    },
+    "social": {
+      "title": "Social media",
+      "subtitle": "Drie posts per week, automatisch voorgesteld.",
+      "triggers": { "weather": "Weer-trigger", "event": "Evenement", "menu": "Menu" },
+      "status": { "draft": "Concept", "scheduled": "Ingepland", "published": "Geplaatst" },
+      "likes": "likes",
+      "reach": "bereik"
+    },
+    "whatsapp": {
+      "title": "WhatsApp-simulatie",
+      "subtitle": "Dit is precies wat er op de telefoon van de ondernemer binnenkomt.",
+      "hint": "Tik op een antwoordknop om de flow te doorlopen.",
+      "replyPlaceholder": "Typ een bericht",
+      "legendTitle": "Berichttypen",
+      "legend": {
+        "alert": "Kritieke review — direct",
+        "reminder": "Ochtendherinnering — 10:00",
+        "campaign": "Campagnevoorstel",
+        "report": "Weekrapport — maandag 09:00"
+      }
+    },
+    "reports": {
+      "title": "Weekrapport",
+      "subtitle": "Elke maandag om 09:00 automatisch naar je WhatsApp.",
+      "week": "Week",
+      "channelsTitle": "Per kanaal",
+      "highlightsTitle": "Belangrijkste cijfers",
+      "customersTitle": "Klanten",
+      "segments": {
+        "loyal": "Vaste klant",
+        "at_risk": "Dreigt te vertrekken",
+        "new": "Nieuw",
+        "birthday": "Jarig deze week"
+      },
+      "tableHeaders": {
+        "customer": "Klant",
+        "orders": "Bestellingen",
+        "last": "Laatste bestelling",
+        "value": "Omzet",
+        "segment": "Segment"
+      },
+      "ago": "geleden"
+    }
+  }
+}
