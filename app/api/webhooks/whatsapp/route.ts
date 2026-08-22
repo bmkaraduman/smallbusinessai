@@ -32,29 +32,7 @@ export async function GET(request: Request) {
   const expected = process.env.WHATSAPP_VERIFY_TOKEN;
   if (!expected) {
     console.error("[whatsapp] WHATSAPP_VERIFY_TOKEN is not set");
-    // TEMPORARY setup diagnostic. Reports which of the variables we expect are
-    // present and non-empty — names and booleans only, never values. Remove
-    // once the webhook is verified.
-    const expectedNames = [
-      "WHATSAPP_VERIFY_TOKEN",
-      "WHATSAPP_ACCESS_TOKEN",
-      "WHATSAPP_PHONE_NUMBER_ID",
-      "META_APP_SECRET",
-    ];
-    return NextResponse.json(
-      {
-        error: "not_configured",
-        present: Object.fromEntries(
-          expectedNames.map((name) => [name, Boolean(process.env[name])]),
-        ),
-        // Any WhatsApp/Meta-ish names actually visible at runtime, so a typo
-        // in the Vercel dashboard shows up here.
-        seen: Object.keys(process.env)
-          .filter((key) => /WHATS|META|WA_/i.test(key))
-          .sort(),
-      },
-      { status: 500 },
-    );
+    return new NextResponse("Not configured", { status: 500 });
   }
 
   if (mode === "subscribe" && token === expected && challenge) {
